@@ -1,2 +1,2 @@
 Four
-Let me write some new text here. I am currently on the dev branch. This change should not appear in the main branch
+The thing I am writing here (main) should conflict with the dev branch.
